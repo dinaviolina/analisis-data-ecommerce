@@ -1,4 +1,5 @@
 pandas==1.3.5
 streamlit==1.26.0
 matplotlib==3.5.1
-seabron==0.12.2
+seaborn==0.12.2
+
