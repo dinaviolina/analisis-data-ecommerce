@@ -1,5 +1,7 @@
-pandas==2.0.1
+pandas==2.2.3
 streamlit==1.39.0
 matplotlib==3.7.1
 seaborn==0.12.2
+numpy==1.21.2
+setuptools
 
